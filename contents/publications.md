@@ -18,7 +18,7 @@
 
 -10.          Zhang, H.; Wen, W.; Du, B.; Zhou, L.; Chen, Y.; Feng, S.; Zou, C.; Wu, L.; Fan, H.J.; Gao, W., et al. Stable continuous-wave lasing from discrete cesium lead bromide quantum dots embedded in a microcavity. Nanoscale Horizons 2023, 8, 1403-1410, [[Paper]](https://doi.org/10.1039/d3nh00139c)
 
--11.           Yang, W.; Mu, Y.; Chen, X.; Jin, N.; Song, J.; Chen, J.; Dong, L.; Liu, C.; Xuan, W.; Zhou, C., et al. CVD growth of large-area monolayer WS_{2} film on sapphire through tuning substrate environment and its application for high-sensitive strain sensor. Nanoscale Research Letters 2023, 18, 13, [[Paper]](https://doi.org/10.1186/s11671-023-03782-z)
+-11.           Yang, W.; Mu, Y.; Chen, X.; Jin, N.; Song, J.; Chen, J.; Dong, L.; Liu, C.; Xuan, W.; Zhou, C., et al. CVD growth of large-area monolayer $WS_{2}$ film on sapphire through tuning substrate environment and its application for high-sensitive strain sensor. Nanoscale Research Letters 2023, 18, 13, [[Paper]](https://doi.org/10.1186/s11671-023-03782-z)
 
 -12.          Shang, J.; Zhang, X.; Zhang, V.L.; Zhang, X.; Yu, T. Exciton-photon interactions in two-dimensional semiconductor microcavities. Acs Photonics 2023, 10, 2064-2077, [[Paper]](https://doi.org/10.1021/acsphotonics.2c01541)
 
