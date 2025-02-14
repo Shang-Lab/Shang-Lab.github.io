@@ -1,38 +1,26 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- Jia, W.; Zhao, Q.; Tian, J.; Qiao, J.; Shi, G.; Zheng, S.; Wei, Y.; Liu, Z.; Hu, X.; Hui, W., et al. Tailored multisite rigid conjugated molecules to anchor perovskite for comprehensive management of perovskite crystallization and defects. <strong>Advanced Functional Materials</strong> 2025, 10.1002/adfm.202422266, 2422266, [[Paper]](https://doi.org/10.1002/adfm.202422266)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Hu, F.; Hu, H.; Zhang, X.; Zhang, X.; Shi, G.; Qiao, J.; Xiao, W.; Li, L.; <strong>Shang, J.</strong> Layer stacking effect on structural, vibrational, and electronic properties of Janus-Ga2SeTe crystals. <strong>Applied Surface Science</strong> 2025, 679, 161279, [[Paper]](https://doi.org/j.apsusc.2024.161279)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Zhang, X.; Zhang, X.; Hu, H.; Zhang, V.L.; Xiao, W.; Shi, G.; Qiao, J.; Huang, N.; Yu, T.; <strong>Shang, J.</strong> Light-emitting devices based on atomically thin MoSe2. Journal of Semiconductors 2024, 45, 041701, [[Paper]](https://doi.org/10.1088/1674-4926/45/4/041701)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Yu, L.; Gao, M.; Lv, Q.; Ma, H.; Shang, J.; Huang, Z.-H.; Sun, Z.; Yu, T.; Kang, F.; Lv, R. High-fidelity transfer of 2D semiconductors and electrodes for van der Waals Devices. Acs Nano 2024, 18, 33131-33141, [[Paper]](https://doi.org/10.1021/acsnano.4c10551)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+-5.             Shi, G.; Huang, N.; Qiao, J.; Zhang, X.; Hu, F.; Hu, H.; Zhang, X.; Shang, J. Recent progress in two-dimensional magnetic materials. Nanomaterials 2024, 14, 1759, [[Paper]](https://doi.org/10.3390/nano14211759)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+-6.             Qi, H.; Tong, Y.; Zhang, X.; Wang, H.; Zhang, L.; Chen, Y.; Wang, Y.; Shang, J.; Wang, K.; Wang, H. Homogenizing energy landscape for efficient and spectrally stable blue perovskite light-emitting diodes. Advanced Materials 2024, 36, 2409319, [[Paper]](https://doi.org/10.1002/adma.202409319)
 
-- Jia, W.; Zhao, Q.; Tian, J.; Qiao, J.; Shi, G.; Zheng, S.; Wei, Y.; Liu, Z.; Hu, X.; Hui, W., et al. Tailored multisite rigid conjugated molecules to anchor perovskite for comprehensive management of perovskite crystallization and defects. Advanced Functional Materials 2025, 10.1002/adfm.202422266, 2422266, [[Paper]](https://doi.org/10.1002/adfm.202422266)
+-7.             Kang, Z.; Wang, K.; Zhang, L.; Yang, Y.; Wu, J.; Tong, Y.; Yan, P.; Chen, Y.; Qi, H.; Sun, K., et al. Homogenizing the low-dimensional phases for stable 2D-3D tin perovskite solar cells. Small 2024, 20, 2402028, [[Paper]](https://doi.org/10.1002/smll.202402028)
 
--2.             Hu, F.; Hu, H.; Zhang, X.; Zhang, X.; Shi, G.; Qiao, J.; Xiao, W.; Li, L.; <strong>Shang, J.</strong> Layer stacking effect on structural, vibrational, and electronic properties of Janus-Ga2SeTe crystals. Applied Surface Science 2025, 679, 161279, doi:10.1016/j.apsusc.2024.161279.
+-8.             Jia, W.; Zhao, Q.; Zhuang, Y.; Wei, Y.; Tian, J.; Wang, C.; Qiao, J.; Shi, G.; Shang, J.; Cheng, Q., et al. Interfacial rivet to fill structural defects: A spacer engineering gift for 3D solar cells. Advanced Materials 2024, 36, 2310444, [[Paper]](https://doi.org/10.1002/adma.202310444)
 
--3.             Zhang, X.; Zhang, X.; Hu, H.; Zhang, V.L.; Xiao, W.; Shi, G.; Qiao, J.; Huang, N.; Yu, T.; Shang, J. Light-emitting devices based on atomically thin MoSe2. Journal of Semiconductors 2024, 45, 041701, doi:10.1088/1674-4926/45/4/041701.
+-9.             Jia, W.; Qiao, J.; Shi, G.; Zhao, L.; Zhao, W.; Liu, F.; Fang, Y.; Shang, J.; Rong, Z.-Q. Layer-controllable synthesis, lattice structural determination, and fluorescence lifetime imaging of (HA) 2 (MA) n-1 Pb n I 3n+1 quasi-2D organic-inorganic perovskite microsheets. Optical Materials 2024, 152, 115447, [[Paper]](https://doi.org/10.1016/j.optmat.2024.115447)
 
--4.             Yu, L.; Gao, M.; Lv, Q.; Ma, H.; Shang, J.; Huang, Z.-H.; Sun, Z.; Yu, T.; Kang, F.; Lv, R. High-fidelity transfer of 2D semiconductors and electrodes for van der Waals Devices. Acs Nano 2024, 18, 33131-33141, doi:10.1021/acsnano.4c10551.
+-10.          Zhang, H.; Wen, W.; Du, B.; Zhou, L.; Chen, Y.; Feng, S.; Zou, C.; Wu, L.; Fan, H.J.; Gao, W., et al. Stable continuous-wave lasing from discrete cesium lead bromide quantum dots embedded in a microcavity. Nanoscale Horizons 2023, 8, 1403-1410, [[Paper]](https://doi.org/10.1039/d3nh00139c)
 
--5.             Shi, G.; Huang, N.; Qiao, J.; Zhang, X.; Hu, F.; Hu, H.; Zhang, X.; Shang, J. Recent progress in two-dimensional magnetic materials. Nanomaterials 2024, 14, 1759, doi:10.3390/nano14211759.
+-11.           Yang, W.; Mu, Y.; Chen, X.; Jin, N.; Song, J.; Chen, J.; Dong, L.; Liu, C.; Xuan, W.; Zhou, C., et al. CVD growth of large-area monolayer WS_{2} film on sapphire through tuning substrate environment and its application for high-sensitive strain sensor. Nanoscale Research Letters 2023, 18, 13, [[Paper]](https://doi.org/10.1186/s11671-023-03782-z)
 
--6.             Qi, H.; Tong, Y.; Zhang, X.; Wang, H.; Zhang, L.; Chen, Y.; Wang, Y.; Shang, J.; Wang, K.; Wang, H. Homogenizing energy landscape for efficient and spectrally stable blue perovskite light-emitting diodes. Advanced Materials 2024, 36, 2409319, doi:10.1002/adma.202409319.
-
--7.             Kang, Z.; Wang, K.; Zhang, L.; Yang, Y.; Wu, J.; Tong, Y.; Yan, P.; Chen, Y.; Qi, H.; Sun, K., et al. Homogenizing the low-dimensional phases for stable 2D-3D tin perovskite solar cells. Small 2024, 20, 2402028, doi:10.1002/smll.202402028.
-
--8.             Jia, W.; Zhao, Q.; Zhuang, Y.; Wei, Y.; Tian, J.; Wang, C.; Qiao, J.; Shi, G.; Shang, J.; Cheng, Q., et al. Interfacial rivet to fill structural defects: A spacer engineering gift for 3D solar cells. Advanced Materials 2024, 36, 2310444, doi:10.1002/adma.202310444.
-
--9.             Jia, W.; Qiao, J.; Shi, G.; Zhao, L.; Zhao, W.; Liu, F.; Fang, Y.; Shang, J.; Rong, Z.-Q. Layer-controllable synthesis, lattice structural determination, and fluorescence lifetime imaging of (HA) 2 (MA) n-1 Pb n I 3n+1 quasi-2D organic-inorganic perovskite microsheets. Optical Materials 2024, 152, 115447, doi:10.1016/j.optmat.2024.115447.
-
--10.          Zhang, H.; Wen, W.; Du, B.; Zhou, L.; Chen, Y.; Feng, S.; Zou, C.; Wu, L.; Fan, H.J.; Gao, W., et al. Stable continuous-wave lasing from discrete cesium lead bromide quantum dots embedded in a microcavity. Nanoscale Horizons 2023, 8, 1403-1410, doi:10.1039/d3nh00139c.
-
--11.           Yang, W.; Mu, Y.; Chen, X.; Jin, N.; Song, J.; Chen, J.; Dong, L.; Liu, C.; Xuan, W.; Zhou, C., et al. CVD growth of large-area monolayer WS2 film on sapphire through tuning substrate environment and its application for high-sensitive strain sensor. Nanoscale Research Letters 2023, 18, 13, doi:10.1186/s11671-023-03782-z.
-
--12.          Shang, J.; Zhang, X.; Zhang, V.L.; Zhang, X.; Yu, T. Exciton-photon interactions in two-dimensional semiconductor microcavities. Acs Photonics 2023, 10, 2064-2077, doi:10.1021/acsphotonics.2c01541.
+-12.          Shang, J.; Zhang, X.; Zhang, V.L.; Zhang, X.; Yu, T. Exciton-photon interactions in two-dimensional semiconductor microcavities. Acs Photonics 2023, 10, 2064-2077, [[Paper]](https://doi.org/10.1021/acsphotonics.2c01541)
 
 -13.          Hu, H.; Zhang, X.; Zhang, X.; Wu, L.; Zhang, V.L.; He, S.; Shi, G.; Yu, T.; Shang, J. Probing angle-resolved reflection signatures of intralayer and interlayer excitons in monolayer and bilayer MoS2. Nano Research 2023, 16, 7844-7850, doi:10.1007/s12274-022-5292-4.
 
