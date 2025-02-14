@@ -1,16 +1,18 @@
 
 
-[![Shang-Lab](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Shang-Lab](https://img.shields.io/badge/senli1073-github-blue?logo=github)]([https://github.com/Shang-Lab])
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Jingzhi Shang is a professor at the Institute of Flexible Electronics of Northwestern Polytechnical University in China. 
 
 #### Email
 iamjzshang@nwpu.edu.cn
 
 #### Education
 M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Data Science and Big Data Technology, Xiamen University, 2018—2022.
+He obtained a bachelor’s degree in physics and a master’s degree in condensed matter physics from Xiamen University in 2006 and 2009, respectively. 
+In2014, he finished the PHD study at the School of Mathematics and Physics of Nanyang Technological University in Singapore. Then heworked as a research fellow in the same school till 2018. 
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+At present, he is interested in optical investigation of two-dimensional semiconductors and their light-emitting devices.
 
