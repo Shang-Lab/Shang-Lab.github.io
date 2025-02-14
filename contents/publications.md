@@ -10,7 +10,7 @@
 
 - X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
-- 1.             Jia, W.; Zhao, Q.; Tian, J.; Qiao, J.; Shi, G.; Zheng, S.; Wei, Y.; Liu, Z.; Hu, X.; Hui, W., et al. Tailored multisite rigid conjugated molecules to anchor perovskite for comprehensive management of perovskite crystallization and defects. Advanced Functional Materials 2025, 10.1002/adfm.202422266, 2422266, doi:10.1002/adfm.202422266.
+- Jia, W.; Zhao, Q.; Tian, J.; Qiao, J.; Shi, G.; Zheng, S.; Wei, Y.; Liu, Z.; Hu, X.; Hui, W., et al. Tailored multisite rigid conjugated molecules to anchor perovskite for comprehensive management of perovskite crystallization and defects. Advanced Functional Materials 2025, 10.1002/adfm.202422266, 2422266, [[Paper]](https://doi.org/10.1002/adfm.202422266)
 
 -2.             Hu, F.; Hu, H.; Zhang, X.; Zhang, X.; Shi, G.; Qiao, J.; Xiao, W.; Li, L.; <strong>Shang, J.</strong> Layer stacking effect on structural, vibrational, and electronic properties of Janus-Ga2SeTe crystals. Applied Surface Science 2025, 679, 161279, doi:10.1016/j.apsusc.2024.161279.
 
