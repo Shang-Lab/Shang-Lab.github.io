@@ -1,6 +1,6 @@
 
 
-[![Shang-Lab](https://img.shields.io/badge/senli1073-github-blue?logo=github)]([https://github.com/Shang-Lab])
+[![Shang-Lab](https://img.shields.io/badge/Shang-Lab-github-blue?logo=github)]([https://github.com/Shang-Lab])
 
 Jingzhi Shang is a professor at the Institute of Flexible Electronics of Northwestern Polytechnical University in China. 
 
