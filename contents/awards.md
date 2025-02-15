@@ -14,7 +14,7 @@
 
 - [Siyu Li](https://www.x-mol.com/groups/Shang_jingzhi/people/92012)
 
-- [ming Qin](https://www.x-mol.com/groups/Shang_jingzhi/people/92014)
+- [Ming Qin](https://www.x-mol.com/groups/Shang_jingzhi/people/92014)
 
 - [Wanjing Huang](https://www.x-mol.com/groups/Shang_jingzhi/people/92017)
 
