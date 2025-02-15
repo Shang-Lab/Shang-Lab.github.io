@@ -1,3 +1,4 @@
+<div class="justify">
 - Jia, W.; Zhao, Q.; Tian, J.; Qiao, J.; Shi, G.; Zheng, S.; Wei, Y.; Liu, Z.; Hu, X.; Hui, W., et al. Tailored multisite rigid conjugated molecules to anchor perovskite for comprehensive management of perovskite crystallization and defects. <strong>Advanced Functional Materials</strong> 2025, 10.1002/adfm.202422266, 2422266, [[Paper]](https://doi.org/10.1002/adfm.202422266)
 
 - Hu, F.; Hu, H.; Zhang, X.; Zhang, X.; Shi, G.; Qiao, J.; Xiao, W.; Li, L.; <strong>Shang, J.</strong> Layer stacking effect on structural, vibrational, and electronic properties of Janus-Ga<sub>2</sub>SeTe crystals. <strong>Applied Surface Science</strong> 2025, 679, 161279, [[Paper]](https://doi.org/j.apsusc.2024.161279)
@@ -74,13 +75,4 @@
 
 - Cong, C.; <strong>Shang, J.</strong>; Niu, L.; Wu, L.; Chen, Y.; Zou, C.; Feng, S.; Qiu, Z.-J.; Hu, L.; Tian, P., et al. Anti-stokes photoluminescence of van der Waals layered semiconductor PbI<sub>2</sub>. <strong>Advanced Optical Materials</strong> 2017, 5, 1700609, [[Paper]](https://doi.org/10.1002/adom.201700609)
 
-<style>
-    .justify {
-        text-align: justify;
-        text-justify: inter-word; /* 这有助于在单词之间分布额外的空间 */
-    }
-</style>
- 
-<div class="justify">
-    这是一段示例文本，用于展示如何实现两端对齐的效果。这种方法在某些情况下可能不会完美地工作，特别是在处理长单词或短句子时。
 </div>
