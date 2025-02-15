@@ -74,3 +74,13 @@
 
 - Cong, C.; <strong>Shang, J.</strong>; Niu, L.; Wu, L.; Chen, Y.; Zou, C.; Feng, S.; Qiu, Z.-J.; Hu, L.; Tian, P., et al. Anti-stokes photoluminescence of van der Waals layered semiconductor PbI<sub>2</sub>. <strong>Advanced Optical Materials</strong> 2017, 5, 1700609, [[Paper]](https://doi.org/10.1002/adom.201700609)
 
+<style>
+    .justify {
+        text-align: justify;
+        text-justify: inter-word; /* 这有助于在单词之间分布额外的空间 */
+    }
+</style>
+ 
+<div class="justify">
+    这是一段示例文本，用于展示如何实现两端对齐的效果。这种方法在某些情况下可能不会完美地工作，特别是在处理长单词或短句子时。
+</div>
