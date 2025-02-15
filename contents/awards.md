@@ -1,6 +1,6 @@
-- Xuewen Zhang[[Link]]([https://www.x-mol.com/groups/Shang_jingzhi/people/92015])
+- Xuewen Zhang[[Link]](https://www.x-mol.com/groups/Shang_jingzhi/people/92015)
 
-- Xinyu Zhang
+- Xinyu Zhang[[Paper]](https://doi.org/j.apsusc.2024.161279)
 
 - Fulong Hu
 
