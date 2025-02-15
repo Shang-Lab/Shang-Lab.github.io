@@ -1,6 +1,6 @@
 
 
-[![Shang-Lab](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Shang-Lab)
+[![Shang-Lab](https://img.shields.io/badge/Shang-Lab-github-blue?logo=github)](https://github.com/Shang-Lab)
 
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
