@@ -1,4 +1,4 @@
-1
+- National Scholarship of Graduate Student, 2024.
 
 - [Xinyu Zhang](https://www.x-mol.com/groups/Shang_jingzhi/people/92029)
 
