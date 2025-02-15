@@ -2,17 +2,28 @@
 
 [![Shang-Lab]([https://github.com/Shang-Lab/Shang-Lab.github.io])]([https://github.com/Shang-Lab])
 
-Jingzhi Shang is a professor at the Institute of Flexible Electronics of Northwestern Polytechnical University in China. 
+Professor
+Institute of Flexible Electronics
+Northwestern Polytechnical University
+1 Dongxiang Road, Chang'an District, Xi'an Shaanxi,710129, China.
 
 #### Email
 iamjzshang@nwpu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, Xiamen University, 2018—2022.
-He obtained a bachelor’s degree in physics and a master’s degree in condensed matter physics from Xiamen University in 2006 and 2009, respectively. 
-In2014, he finished the PHD study at the School of Mathematics and Physics of Nanyang Technological University in Singapore. Then heworked as a research fellow in the same school till 2018. 
+Ph. D., Physics and Applied Physics, Nanyang Technological University, Singapore, 2014
+M.S., Condensed Matter Physics, Xiamen University, China, 2009
+B.S., Physics, Xiamen University, China, 2006
+
+#### Professional Experience
+Professor, Institute of Flexible Electronics, Northwestern Polytechnical University, China, 2018-Present
+Research Fellow, Division of Physics and Applied Physics, Nanyang Technological University, Singapore, 2014-2018
+Research Associate, Division of Physics and Applied Physics, Nanyang Technological University, Singapore, 2013-2014
 
 #### Research Interests
-At present, he is interested in optical investigation of two-dimensional semiconductors and their light-emitting devices.
+Physical, optical, and optoelectronic properties of the emerging two-dimensional (2D) materials and their light-emitting devices.
+1. Preparation of atomically thin single crystals and their van der Waals heterostructures. 
+2. Investigation of new physical properties of 2D materials by optical, electrical and optoelectrical techniques 
+3. Development of high-efficiency 2D light-emitting diodes and lasers for practical optoelectronic applications.
+
 
