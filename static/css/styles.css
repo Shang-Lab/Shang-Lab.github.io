@@ -10909,6 +10909,17 @@ footer a:hover, footer a:active, footer a:focus {
   text-decoration: underline;
 }
 
+<style>
+    .manual-justify {
+        display: inline-block; /* 或者使用其他合适的display值 */
+        width: 100%; /* 或者具体的宽度值 */
+    }
+    .manual-justify::after {
+        content: '';
+        display: inline-block;
+        width: 100%; /* 确保宽度足够大以撑开容器 */
+    }
+</style>
 
 
 
