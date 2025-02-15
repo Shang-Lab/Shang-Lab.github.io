@@ -1,10 +1,10 @@
 
 
-[![Shang-Lab](https://img.shields.io/badge/Shang-Lab-github-blue?logo=github)](https://github.com/Shang-Lab)
+[[Shang-Lab]](https://github.com/Shang-Lab)
 
-Professor
-Institute of Flexible Electronics
-Northwestern Polytechnical University
+Professor\
+Institute of Flexible Electronics\
+Northwestern Polytechnical University\
 1 Dongxiang Road, Chang'an District, Xi'an Shaanxi,710129, China.
 
 #### Email
