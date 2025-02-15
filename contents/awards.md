@@ -1,13 +1,13 @@
-- National Scholarship of Graduate Student, 2024.
+- Xuewen Zhang
 
-- First-prize Scholarship of CUMT, 2024.
+- Xinyu Zhang
 
-- First-prize Scholarship of CUMT, 2023.
+- Fulong Hu
 
-- Freshman Scholarship of CUMT, 2022.
+- Hanwei Hu
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Guangchao Shi
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- Jingyuan Qiao
 
-- First-prize Scholarship of CUMT, 2019 Fulong Hu.
+- Shiyu li
