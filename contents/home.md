@@ -11,9 +11,9 @@ Northwestern Polytechnical University
 iamjzshang@nwpu.edu.cn
 
 #### Education
-Ph. D., Physics and Applied Physics, Nanyang Technological University, Singapore, 2014
-M.S., Condensed Matter Physics, Xiamen University, China, 2009
-B.S., Physics, Xiamen University, China, 2006
+- Ph. D., Physics and Applied Physics, Nanyang Technological University, Singapore, 2014
+- M.S., Condensed Matter Physics, Xiamen University, China, 2009
+- B.S., Physics, Xiamen University, China, 2006
 
 #### Professional Experience
 Professor, Institute of Flexible Electronics, Northwestern Polytechnical University, China, 2018-Present
