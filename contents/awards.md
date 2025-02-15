@@ -18,7 +18,7 @@
 
 - [Wanjing Huang](https://www.x-mol.com/groups/Shang_jingzhi/people/92017)
 
-- [Yinying Luo](https://www.x-mol.com/groups/Shang_jingzhi/people/92019)
+- [Yingying Luo](https://www.x-mol.com/groups/Shang_jingzhi/people/92019)
 
 - [Tao Chen](https://www.x-mol.com/groups/Shang_jingzhi/people/92031)
 
