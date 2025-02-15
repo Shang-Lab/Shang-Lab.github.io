@@ -2,7 +2,7 @@
 
 - Hu, F.; Hu, H.; Zhang, X.; Zhang, X.; Shi, G.; Qiao, J.; Xiao, W.; Li, L.; <strong>Shang, J.</strong> Layer stacking effect on structural, vibrational, and electronic properties of Janus-Ga2SeTe crystals. <strong>Applied Surface Science</strong> 2025, 679, 161279, [[Paper]](https://doi.org/j.apsusc.2024.161279)
 
-- Zhang, X.; Zhang, X.; Hu, H.; Zhang, V.L.; Xiao, W.; Shi, G.; Qiao, J.; Huang, N.; Yu, T.; <strong>Shang, J.</strong> Light-emitting devices based on atomically thin MoSesub{2}. <strong>Journal of Semiconductors</strong> 2024, 45, 041701, [[Paper]](https://doi.org/10.1088/1674-4926/45/4/041701)
+- Zhang, X.; Zhang, X.; Hu, H.; Zhang, V.L.; Xiao, W.; Shi, G.; Qiao, J.; Huang, N.; Yu, T.; <strong>Shang, J.</strong> Light-emitting devices based on atomically thin MoSe<sub{2}>. <strong>Journal of Semiconductors</strong> 2024, 45, 041701, [[Paper]](https://doi.org/10.1088/1674-4926/45/4/041701)
 
 - Yu, L.; Gao, M.; Lv, Q.; Ma, H.; Shang, J.; Huang, Z.-H.; Sun, Z.; Yu, T.; Kang, F.; Lv, R. High-fidelity transfer of 2D semiconductors and electrodes for van der Waals Devices. <strong>Acs Nano</strong> 2024, 18, 33131-33141, [[Paper]](https://doi.org/10.1021/acsnano.4c10551)
 
