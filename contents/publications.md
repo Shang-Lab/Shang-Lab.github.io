@@ -72,3 +72,76 @@
 - <strong>Shang, J.</strong>; Cong, C.; Shen, X.; Yang, W.; Zou, C.; Peimyoo, N.; Cao, B.; Eginligil, M.; Lin, W.; Huang, W., et al. Revealing electronic nature of broad bound exciton bands in two-dimensional semiconducting WS<sub>2</sub> and MoS<sub>2</sub>. <strong>Physical Review Materials</strong> 2017, 1, 074001, [[Paper]](https://doi.org/10.1103/PhysRevMaterials.1.074001)
 
 - Cong, C.; <strong>Shang, J.</strong>; Niu, L.; Wu, L.; Chen, Y.; Zou, C.; Feng, S.; Qiu, Z.-J.; Hu, L.; Tian, P., et al. Anti-stokes photoluminescence of van der Waals layered semiconductor PbI<sub>2</sub>. <strong>Advanced Optical Materials</strong> 2017, 5, 1700609, [[Paper]](https://doi.org/10.1002/adom.201700609)
+
+- Yang, W.; <strong>Shang, J.</strong>; Wang, J.; Shen, X.; Cao, B.; Peimyoo, N.; Zou, C.; Chen, Y.; Wang, Y.; Cong, C., et al. Electrically tunable valley-light emitting diode (vLED) based on CVD-grown monolayer WS<sub>2</sub>. <strong>Nano Letters</strong> 2016, 16, 1560-1567, [[Paper]](https://doi.org/10.1021/acs.nanolett.5b04066)
+
+- Zeng, S.; Sreekanth, K.V.; <strong>Shang, J.</strong>; Yu, T.; Chen, C.-K.; Yin, F.; Baillargeat, D.; Coquet, P.; Ho, H.-P.; Kabashin, A.V., et al. Graphene-gold metasurface architectures for ultrasensitive plasmonic biosensing. <strong>Advanced Materials</strong> 2015, 27, 6163-6169, [[Paper]](https://doi.org/10.1002/adma.201501754)
+
+- Wang, Y.; Cong, C.; Yang, W.; <strong>Shang, J.</strong>; Peimyoo, N.; Chen, Y.; Kang, J.; Wang, J.; Huang, W.; Yu, T. Strain-induced direct-indirect bandgap transition and phonon modulation in monolayer WS<sub>2</sub>. <strong>Nano Research</strong> 2015, 8, 2562-2572, [[Paper]](https://doi.org/10.1007/s12274-015-0762-6)
+
+- <strong>Shang, J.</strong>; Shen, X.; Cong, C.; Peimyoo, N.; Cao, B.; Eginligil, M.; Yu, T. Observation of excitonic fine structure in a 2D transition-metal dichalcogenide semiconductor. <strong>Acs Nano</strong> 2015, 9, 647-655, [[Paper]](https://doi.org/10.1021/nn5059908)
+
+- Peimyoo, N.; <strong>Shang, J.</strong>; Yang, W.; Wang, Y.; Cong, C.; Yu, T. Thermal conductivity determination of suspended mono- and bilayer WS<sub>2</sub> by Raman spectroscopy. <strong>Nano Research</strong> 2015, 8, 1210-1221, [[Paper]](https://doi.org/10.1007/s12274-014-0602-0)
+
+- Eginligil, M.; Cao, B.; Wang, Z.; Shen, X.; Cong, C.; <strong>Shang, J.</strong>; Soci, C.; Yu, T. Dichroic spin-valley photocurrent in monolayer molybdenum disulphide. <strong>Nature Communications</strong> 2015, 6, 7636, [[Paper]](https://doi.org/10.1038/ncomms8636)
+
+- <strong>Shang, J.</strong>; Ma, L.; Li, J.; Ai, W.; Yu, T.; Gurzadyan, G.G. Femtosecond pump-probe spectroscopy of graphene oxide in water. <strong>Journal of Physics D-Applied Physics</strong> 2014, 47, 094008, [[Paper]](https://doi.org/10.1088/0022-3727/47/9/094008)
+
+- Poletkin, K.V.; Gurzadyan, G.G.; <strong>Shang, J.</strong>; Kulish, V. Thermal properties of thin films studied by ultrafast laser spectroscopy: Theory and experiment. <strong>International Journal of Heat and Mass Transfer</strong> 2014, 77, 17-21, [[Paper]](https://doi.org/10.1016/j.ijheatmasstransfer.2014.04.054)
+
+- Peimyoo, N.; Yang, W.; <strong>Shang, J.</strong>; Shen, X.; Wang, Y.; Yu, T. Chemically driven tunable light emission of charged and neutral excitons in mono layer WS<sub>2</sub>. <strong>Acs Nano</strong> 2014, 8, 11320-11329, [[Paper]](https://doi.org/10.1021/nn504196n)
+
+- Luo, Z.; Yang, D.; Qi, G.; <strong>Shang, J.</strong>; Yang, H.; Wang, Y.; Yuwen, L.; Yu, T.; Huang, W.; Wang, L. Microwave-assisted solvothermal preparation of nitrogen and sulfur co-doped reduced graphene oxide and graphene quantum dots hybrids for highly efficient oxygen reduction. <strong>Journal of Materials Chemistry A</strong> 2014, 2, 20605-20611, [[Paper]](https://doi.org/10.1039/c4ta05096g)
+
+- Cong, C.; <strong>Shang, J.</strong>; Wu, X.; Cao, B.; Peimyoo, N.; Qiu, C.; Sun, L.; Yu, T. Synthesis and optical properties of large-area single-crystalline 2D semiconductor WS<sub>2</sub> monolayer from chemical vapor deposition. <strong>Advanced Optical Materials</strong> 2014, 2, 131-136, [[Paper]](https://doi.org/10.1002/adom.201300428)
+
+- Cao, B.; Shen, X.; <strong>Shang, J.</strong>; Cong, C.; Yang, W.; Eginligil, M.; Yu, T. Low temperature photoresponse of monolayer tungsten disulphide. <strong>Apl Materials</strong> 2014, 2, 116101, [[Paper]](https://doi.org/10.1063/1.4900816)
+
+- Zou, X.; <strong>Shang, J.</strong>; Leaw, J.; Luo, Z.; Luo, L.; La-o-Vorakiat, C.; Cheng, L.; Cheong, S.A.; Su, H.; Zhu, J.-X., et al. Terahertz conductivity of twisted bilayer graphene. <strong>Physical Review Letters</strong> 2013, 110, [[Paper]](https://doi.org/10.1103/PhysRevLett.110.067401)
+
+- <strong>Shang, J.</strong>; Cong, C.; Zhang, J.; Xiong, Q.; Gurzadyan, G.G.; Yu, T. Observation of low-wavenumber out-of-plane optical phonon in few-layer graphene. <strong>Journal of Raman Spectroscopy</strong> 2013, 44, 70-74, [[Paper]](https://doi.org/10.1002/jrs.4141)
+
+- Peimyoo, N.; <strong>Shang, J.</strong>; Cong, C.; Shen, X.; Wu, X.; Yeow, E.K.L.; Yu, T. Nonblinking, intense two-dimensional light emitter: Mono layer WS<sub>2</sub> triangles. <strong>Acs Nano</strong> 2013, 7, 10985-10994, [[Paper]](https://doi.org/10.1021/nn4046002)
+
+- Li, J.; Liu, Y.; Qian, Y.; Li, L.; Xie, L.; <strong>Shang, J.</strong>; Yu, T.; Yi, M.; Huang, W. Describing curved-planar π-π interactions: modeled by corannulene, pyrene and coronene. <strong>Physical Chemistry Chemical Physics</strong> 2013, 15, 12694-12701, [[Paper]](https://doi.org/10.1039/c3cp51095f)
+
+- Sreekanth, K.V.; Zeng, S.; <strong>Shang, J.</strong>; Yong, K.-T.; Yu, T. Excitation of surface electromagnetic waves in a graphene-based Bragg grating. <strong>Scientific Reports</strong> 2012, 2, 732, [[Paper]](https://doi.org/10.1038/srep00737)
+
+- <strong>Shang, J.</strong>; Yan, S.; Cong, C.; Tan, H.-S.; Yu, T.; Gurzadyan, G.G. Probing near Dirac point electron-phonon interaction in graphene. <strong>Optical Materials Express</strong> 2012, 2, 1713-1722, [[Paper]](https://doi.org/10.1364/ome.2.001713)
+
+- <strong>Shang, J.</strong>; Ma, L.; Li, J.; Ai, W.; Yu, T.; Gurzadyan, G.G. The origin of fluorescence from graphene oxide. <strong>Scientific Reports</strong> 2012, 2, 792, [[Paper]](https://doi.org/10.1038/srep00792)
+
+- Peimyoo, N.; Yu, T.; <strong>Shang, J.</strong>; Cong, C.; Yang, H. Thickness-dependent azobenzene doping in mono- and few-layer graphene. <strong>Carbon</strong> 2012, 50, 201-208, [[Paper]](https://doi.org/10.1016/j.carbon.2011.08.035)
+
+- Peimyoo, N.; Li, J.; <strong>Shang, J.</strong>; Shen, X.; Qiu, C.; Xie, L.; Huang, W.; Yu, T. Photocontrolled molecular structural transition and doping in graphene. <strong>Acs Nano</strong> 2012, 6, 8878-8886, [[Paper]](https://doi.org/10.1021/nn302876w)
+
+- <strong>Shang, J.</strong>; Yu, T.; Lin, J.; Gurzadyan, G.G. Ultrafast electron-optical phonon scattering and quasiparticle lifetime in CVD-grown graphene. <strong>Acs Nano</strong> 2011, 5, 3278-3283, [[Paper]](https://doi.org/10.1021/nn200419z)
+
+- Luo, Z.; Yu, T.; <strong>Shang, J.</strong>; Wang, Y.; Lim, S.; Liu, L.; Gurzadyan, G.G.; Shen, Z.; Lin, J. Large-scale synthesis of bi-layer graphene in strongly coupled stacking order. <strong>Advanced Functional Materials</strong> 2011, 21, 911-917, [[Paper]](https://doi.org/10.1002/adfm.201002227)
+
+- Luo, Z.; Yu, T.; Ni, Z.; Lim, S.; Hu, H.; <strong>Shang, J.</strong>; Liu, L.; Shen, Z.; Lin, J. Electronic structures and structural evolution of hydrogenated graphene probed by Raman spectroscopy. <strong>Journal of Physical Chemistry C</strong> 2011, 115, 1422-1427, [[Paper]](https://doi.org/10.1021/jp107109h)
+
+- Luo, Z.; Lim, S.; Tian, Z.; <strong>Shang, J.</strong>; Lai, L.; MacDonald, B.; Fu, C.; Shen, Z.; Yu, T.; Lin, J. Pyridinic N doped graphene: synthesis, electronic structure, and electrocatalytic property. <strong>Journal of Materials Chemistry</strong> 2011, 21, 8038-8044, [[Paper]](https://doi.org/10.1039/c1jm10845j)
+
+- Cong, C.; Yu, T.; Sato, K.; <strong>Shang, J.</strong>; Saito, R.; Dresselhaus, G.F.; Dresselhaus, M.S. Raman characterization of ABA- and ABC-stacked trilayer graphene. <strong>Acs Nano</strong> 2011, 5, 8760-8768, [[Paper]](https://doi.org/10.1021/nn203472f)
+
+- Wu, C.; <strong>Shang, J.</strong>; Zhang, B.; Zhang, J.; Yu, J.; Wang, Q. Impact of thickness of GaN buffer layer on properties of AlN/GaN distributed Bragg reflectors grown by metalorganic chemical vapor deposition. <strong>Science China-Technological Sciences</strong> 2010, 53, 313-316, [[Paper]](https://doi.org/10.1007/s11431-010-0037-0)
+
+- Wang, H.; Wu, Y.; Cong, C.; <strong>Shang, J.</strong>; Yu, T. Hysteresis of electronic transport in graphene transistors. <strong>Acs Nano</strong> 2010, 4, 7221-7228, [[Paper]](https://doi.org/10.1021/nn101950n)
+
+- <strong>Shang, J.</strong>; Luo, Z.; Cong, C.; Lin, J.; Yu, T.; Gurzadyan, G.G. Femtosecond UV-pump/visible-probe measurements of carrier dynamics in stacked graphene films. <strong>Applied Physics Letters</strong> 2010, 97, 163103, [[Paper]](https://doi.org/10.1063/1.3504704)
+
+- Luo, Z.; <strong>Shang, J.</strong>; Lim, S.; Li, D.; Xiong, Q.; Shen, Z.; Lin, J.; Yu, T. Modulating the electronic structures of graphene by controllable hydrogenation. <strong>Applied Physics Letters</strong> 2010, 97, 233111, [[Paper]](https://doi.org/10.1063/1.3524217)
+
+- Hu, X.; Zhang, J.; <strong>Shang, J.</strong>; Liu, W.; Zhang, B. The exciton-longitudinal-optical-phonon coupling in InGaN/GaN single quantum wells with various cap layer thicknesses. <strong>Chinese Physics B</strong> 2010, 19, 117801, [[Paper]](https://doi.org/10.1088/1674-1056/19/11/117801)
+
+-<strong>Shang, J.</strong>; Zhang B.; Mao M.; Cai L.; Zhang J.; Fang Z.; Liu B.; Yu J.; Wang Q.; Kusakabe K.; Ohkawa K. Growth behavior of AlInGaN films. <strong>Journal of Crystal Growth</strong> 2009, 311, 474-477,
+
+- Zhang, J. Cai, L.; Zhang, B.; Li, S.; Lin, F.; <strong>Shang, J.</strong>; Wang, D.; Lin, K.; Yu, J.; Wang, Q. Blue-violet lasing of optically pumped GaN-based vertical cavity surface-emitting laser with dielectric distributed Bragg reflectors. <strong>Journal of Lightwave Technology</strong> 2009, 27, 55-59, [[Paper]](https://opg.optica.org/jlt/abstract.cfm?uri=jlt-27-1-55)
+
+- <strong>Shang, J.</strong>; Zhang, B.; Wu, C.; Cai, L.; Zhang, J.; Yu, J.; Wang, Q. High Al-content AlInGaN epilayers with different thicknesses grown on GaN/sapphire templates. <strong>Applied Surface Science</strong> 2008, 255, 3350-3353,
+
+- Zhang, J.; Cai, L.; Zhang, B.; Li, S.; Lin, F.; <strong>Shang, J.</strong>; Wang, D.; Lin, K.; Yu, J.; Wang, Q. Low threshold lasing of GaN-based vertical cavity surface emitting lasers with an asymmetric coupled quantum well active region. 2008, 93, 191118, [[Paper]](https://doi.org/10.1063/1.3030876)
+
+- Cai, L.; Zhang, J.; Zhang, B.; Li, S.; Wang, D.; <strong>Shang, J.</strong>; Lin, F.; Lin, K.; Yu, J.; Wang, Q. Blue-green optically pumped GaN-based vertical cavity surface emitting laser. 2008, 44, 1, [[Paper]](https://doi.org/10.1049/el:20081747)
+
