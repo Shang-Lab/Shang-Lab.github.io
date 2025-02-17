@@ -23,7 +23,7 @@ Research Associate, Division of Physics and Applied Physics, Nanyang Technologic
 #### Research Interests
 Physical, optical, and optoelectronic properties of the emerging two-dimensional (2D) materials and their light-emitting devices.
 1. Preparation of atomically thin single crystals and their van der Waals heterostructures. 
-2. Investigation of new physical properties of 2D materials by optical, electrical and optoelectrical techniques. 
+2. Investigation of new physical properties of 2D materials by optical, electrical, and optoelectrical techniques. 
 3. Development of high-efficiency 2D light-emitting diodes and lasers for practical optoelectronic applications.
 
 
