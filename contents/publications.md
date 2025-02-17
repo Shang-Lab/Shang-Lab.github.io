@@ -1,3 +1,4 @@
+<p style="text-align: justify;">
 - Jia, W.; Zhao, Q.; Tian, J.; Qiao, J.; Shi, G.; Zheng, S.; Wei, Y.; Liu, Z.; Hu, X.; Hui, W., et al. Tailored multisite rigid conjugated molecules to anchor perovskite for comprehensive management of perovskite crystallization and defects. <strong>Advanced Functional Materials</strong> 2025, 10.1002/adfm.202422266, 2422266, [[Paper]](https://doi.org/10.1002/adfm.202422266)
 
 - Hu, F.; Hu, H.; Zhang, X.; Zhang, X.; Shi, G.; Qiao, J.; Xiao, W.; Li, L.; <strong>Shang, J.</strong> Layer stacking effect on structural, vibrational, and electronic properties of Janus-Ga<sub>2</sub>SeTe crystals. <strong>Applied Surface Science</strong> 2025, 679, 161279, [[Paper]](https://doi.org/j.apsusc.2024.161279)
@@ -72,3 +73,4 @@
 - <strong>Shang, J.</strong>; Cong, C.; Shen, X.; Yang, W.; Zou, C.; Peimyoo, N.; Cao, B.; Eginligil, M.; Lin, W.; Huang, W., et al. Revealing electronic nature of broad bound exciton bands in two-dimensional semiconducting WS<sub>2</sub> and MoS<sub>2</sub>. <strong>Physical Review Materials</strong> 2017, 1, 074001, [[Paper]](https://doi.org/10.1103/PhysRevMaterials.1.074001)
 
 - Cong, C.; <strong>Shang, J.</strong>; Niu, L.; Wu, L.; Chen, Y.; Zou, C.; Feng, S.; Qiu, Z.-J.; Hu, L.; Tian, P., et al. Anti-stokes photoluminescence of van der Waals layered semiconductor PbI<sub>2</sub>. <strong>Advanced Optical Materials</strong> 2017, 5, 1700609, [[Paper]](https://doi.org/10.1002/adom.201700609)
+</p>
