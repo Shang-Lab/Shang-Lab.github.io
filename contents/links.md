@@ -1,4 +1,4 @@
-- [Public home](https://teacher.nwpu.edu.cn/jshang.html)
+- [Homepage (NPU-teacher)](https://teacher.nwpu.edu.cn/jshang.html)
 
 - [Google Scholar](https://scholar.google.com/citations?user=8cVKYSAAAAAJ&hl=en&oi=ao)
 
