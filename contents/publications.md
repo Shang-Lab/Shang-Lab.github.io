@@ -135,13 +135,13 @@
 
 - Hu, X.; Zhang, J.; <strong>Shang, J.</strong>; Liu, W.; Zhang, B. The exciton-longitudinal-optical-phonon coupling in InGaN/GaN single quantum wells with various cap layer thicknesses. <strong>Chinese Physics B</strong> 2010, 19, 117801, [[Paper]](https://doi.org/10.1088/1674-1056/19/11/117801)
 
--<strong>Shang, J.</strong>; Zhang B.; Mao M.; Cai L.; Zhang J.; Fang Z.; Liu B.; Yu J.; Wang Q.; Kusakabe K.; Ohkawa K. Growth behavior of AlInGaN films. <strong>Journal of Crystal Growth</strong> 2009, 311, 474-477,
+- <strong>Shang, J.</strong>; Zhang B.; Mao M.; Cai L.; Zhang J.; Fang Z.; Liu B.; Yu J.; Wang Q.; Kusakabe K.; Ohkawa K. Growth behavior of AlInGaN films. <strong>Journal of Crystal Growth</strong> 2009, 311, 474-477, [[Paper]](https://doi.org/10.1016/j.jcrysgro.2008.09.012)
 
 - Zhang, J. Cai, L.; Zhang, B.; Li, S.; Lin, F.; <strong>Shang, J.</strong>; Wang, D.; Lin, K.; Yu, J.; Wang, Q. Blue-violet lasing of optically pumped GaN-based vertical cavity surface-emitting laser with dielectric distributed Bragg reflectors. <strong>Journal of Lightwave Technology</strong> 2009, 27, 55-59, [[Paper]](https://opg.optica.org/jlt/abstract.cfm?uri=jlt-27-1-55)
 
-- <strong>Shang, J.</strong>; Zhang, B.; Wu, C.; Cai, L.; Zhang, J.; Yu, J.; Wang, Q. High Al-content AlInGaN epilayers with different thicknesses grown on GaN/sapphire templates. <strong>Applied Surface Science</strong> 2008, 255, 3350-3353,
+- <strong>Shang, J.</strong>; Zhang, B.; Wu, C.; Cai, L.; Zhang, J.; Yu, J.; Wang, Q. High Al-content AlInGaN epilayers with different thicknesses grown on GaN/sapphire templates. <strong>Applied Surface Science</strong> 2008, 255, 3350-3353, [[Paper]](https://doi.org/10.1016/j.apsusc.2008.09.046)
 
-- Zhang, J.; Cai, L.; Zhang, B.; Li, S.; Lin, F.; <strong>Shang, J.</strong>; Wang, D.; Lin, K.; Yu, J.; Wang, Q. Low threshold lasing of GaN-based vertical cavity surface emitting lasers with an asymmetric coupled quantum well active region. 2008, 93, 191118, [[Paper]](https://doi.org/10.1063/1.3030876)
+- Zhang, J.; Cai, L.; Zhang, B.; Li, S.; Lin, F.; <strong>Shang, J.</strong>; Wang, D.; Lin, K.; Yu, J.; Wang, Q. Low threshold lasing of GaN-based vertical cavity surface emitting lasers with an asymmetric coupled quantum well active region. 2008, 93, 191118, [[Paper 2]](https://doi.org/10.1063/1.3030876)
 
-- Cai, L.; Zhang, J.; Zhang, B.; Li, S.; Wang, D.; <strong>Shang, J.</strong>; Lin, F.; Lin, K.; Yu, J.; Wang, Q. Blue-green optically pumped GaN-based vertical cavity surface emitting laser. 2008, 44, 1, [[Paper]](https://doi.org/10.1049/el:20081747)
+- Cai, L.; Zhang, J.; Zhang, B.; Li, S.; Wang, D.; <strong>Shang, J.</strong>; Lin, F.; Lin, K.; Yu, J.; Wang, Q. Blue-green optically pumped GaN-based vertical cavity surface emitting laser. 2008, 44, 1, [[Paper 1]](https://doi.org/10.1049/el:20081747)
 
