@@ -1,5 +1,4 @@
-<p class="justify">
-- Jia, W.; Zhao, Q.; Tian, J.; Qiao, J.; Shi, G.; Zheng, S.; Wei, Y.; Liu, Z.; Hu, X.; Hui, W., et al. Tailored multisite rigid conjugated molecules to anchor perovskite for comprehensive management of perovskite crystallization and defects. <strong>Advanced Functional Materials</strong> 2025, 10.1002/adfm.202422266, 2422266, [[Paper]](https://doi.org/10.1002/adfm.202422266)
+- <p class="justify">Jia, W.; Zhao, Q.; Tian, J.; Qiao, J.; Shi, G.; Zheng, S.; Wei, Y.; Liu, Z.; Hu, X.; Hui, W., et al. Tailored multisite rigid conjugated molecules to anchor perovskite for comprehensive management of perovskite crystallization and defects. <strong>Advanced Functional Materials</strong> 2025, 10.1002/adfm.202422266, 2422266, [[Paper]](https://doi.org/10.1002/adfm.202422266)
 
 - Hu, F.; Hu, H.; Zhang, X.; Zhang, X.; Shi, G.; Qiao, J.; Xiao, W.; Li, L.; <strong>Shang, J.</strong> Layer stacking effect on structural, vibrational, and electronic properties of Janus-Ga<sub>2</sub>SeTe crystals. <strong>Applied Surface Science</strong> 2025, 679, 161279, [[Paper]](https://doi.org/j.apsusc.2024.161279)
 
