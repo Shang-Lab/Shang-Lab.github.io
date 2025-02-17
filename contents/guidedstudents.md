@@ -2,7 +2,7 @@
 
 - [Xuewen Zhang](https://www.x-mol.com/groups/Shang_jingzhi/people/92015)
 
-- [Fulong Hu](https://www.x-mol.com/groups/Shang_jingzhi/people/92016) ![hufulong](https://github.com/user-attachments/assets/74e18f9b-41c5-41b8-b5de-624b66b97210)
+- (https://www.x-mol.com/groups/Shang_jingzhi/people/92016) ![hufulong](https://github.com/user-attachments/assets/74e18f9b-41c5-41b8-b5de-624b66b97210)(https://www.x-mol.com/groups/Shang_jingzhi/people/92016)
 
 - [Hanwei Hu](https://www.x-mol.com/groups/Shang_jingzhi/people/91969)
 
