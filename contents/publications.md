@@ -1,3 +1,9 @@
+- Zhang, X.; Zhang, X.;  Hu, H.; Hu, F.;  Qiao, J.; Shi, G.; Zhang, G.;Sreekanth K.; Teng J.; Shang J. Achieving zero-detuned and polarized bragg polaritons in monolayer MoS2 above room temperature. ACS Photonics 2025, 12, 5750-5758,  [[Paper-77]](https://doi.org/10.1002/acsphotonics.5c01609)
+
+- Shi, G.;  Hu, F.;  Qiao, J.;  Hu, H.; Zhang, X.; Zhang, X.; Shang J. Photoluminescence differentiation of zigzag and armchair edges of a layered GaSe0.5Te0.5 alloy crystal. Advanced Optical Materials 2025, e02032, [[Paper-76]](https://doi.org/10.1002/adom.202502032)
+
+- Zhang, X.; Zhang, X.;  Hu, H.;  Shi, G.; Qiao, J.; Hu, F.; Zhang, G.; Shang J. Observation of exciton-polaritons in topless 2D-semiconductor microcavity. Advanced Optical Materials 2025, 2501108, [[Paper-75]](https://doi.org/10.1002/adom.202501108)
+
 - Jia, W.; Zhao, Q.; Tian, J.; Qiao, J.; Shi, G.; Zheng, S.; Wei, Y.; Liu, Z.; Hu, X.; Hui, W., et al. Tailored multisite rigid conjugated molecules to anchor perovskite for comprehensive management of perovskite crystallization and defects. <strong>Advanced Functional Materials</strong> 2025, 10.1002/adfm.202422266, 2422266, [[Paper-74]](https://doi.org/10.1002/adfm.202422266)
 
 - Hu, F.; Hu, H.; Zhang, X.; Zhang, X.; Shi, G.; Qiao, J.; Xiao, W.; Li, L.; <strong>Shang, J.</strong> Layer stacking effect on structural, vibrational, and electronic properties of Janus-Ga<sub>2</sub>SeTe crystals. <strong>Applied Surface Science</strong> 2025, 679, 161279, [[Paper-73]](https://doi.org/j.apsusc.2024.161279)
