@@ -1,4 +1,4 @@
-- [Homepage (NPU-teacher)](https://teacher.nwpu.edu.cn/jshang.html)
+- [Homepage (CCZU-teacher)](https://jsjx.cczu.edu.cn/jsml/list.htm)
 
 - [Google Scholar](https://scholar.google.com/citations?user=8cVKYSAAAAAJ&hl=en&oi=ao)
 
