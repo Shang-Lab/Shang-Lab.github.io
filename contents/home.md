@@ -3,12 +3,12 @@
 [[Shang-Lab]](https://github.com/Shang-Lab)
 
 Professor\
-Institute of Flexible Electronics\
-Northwestern Polytechnical University\
-1 Dongxiang Road, Chang'an District, Xi'an Shaanxi, 710129, China.
+School of Microelectronics and Control Engineering\
+Changzhou University\
+2468 Yanzheng West Avenue, Wujin District, Changzhou Jiangshu, 213164, China.
 
 #### Email
-iamjzshang@nwpu.edu.cn
+jzshang@cczu.edu.cn
 
 #### Education
 Ph. D., Physics and Applied Physics, Nanyang Technological University, Singapore, 2014\
@@ -16,7 +16,8 @@ M.S., Condensed Matter Physics, Xiamen University, China, 2009\
 B.S., Physics, Xiamen University, China, 2006
 
 #### Professional Experience
-Professor, Institute of Flexible Electronics, Northwestern Polytechnical University, China, 2018-Present\
+Professor, School of Microelectronics and Control Engineering, Changzhou University, China, 2025-Present\
+Professor, Institute of Flexible Electronics, Northwestern Polytechnical University, China, 2018-2025\
 Research Fellow, Division of Physics and Applied Physics, Nanyang Technological University, Singapore, 2014-2018\
 Research Associate, Division of Physics and Applied Physics, Nanyang Technological University, Singapore, 2013-2014
 
