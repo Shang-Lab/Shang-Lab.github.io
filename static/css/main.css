@@ -109,4 +109,65 @@ section .main-body{
     }
 }
 
+/* 成员卡片样式 - 图片在左，文字在右 */
+.member-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    border-left: 5px solid #3498db;
+}
 
+.member-image {
+    flex-shrink: 0;
+}
+
+.member-image img {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    object-fit: cover;
+    border: 3px solid #f8f9fa;
+}
+
+.member-details {
+    flex: 1;
+}
+
+.member-details h3 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    border-bottom: 2px solid #ecf0f1;
+    padding-bottom: 0.5rem;
+}
+
+.member-details p {
+    margin-bottom: 0.5rem;
+    color: #555;
+}
+
+.member-details strong {
+    color: #2c3e50;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .member-card {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .member-image {
+        align-self: center;
+    }
+    
+    .member-image img {
+        width: 120px;
+        height: 120px;
+    }
+}
