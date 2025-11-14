@@ -1,7 +1,10 @@
 - [Xinyu Zhang](https://www.x-mol.com/groups/Shang_jingzhi/people/92029)
 
 - ![9a484204b49c5003b92d1298635f3b91](https://github.com/user-attachments/assets/0e00a957-87e2-427a-a368-dedd167e4b25)\
-- Xuewen Zhang
+<strong>Xuewen Zhang</strong>\
+BS: Taiyuan University of Technology, China‌\
+MS：Northwestern Polytechnical University, China\
+PHD: Northwestern Polytechnical University, China\
 
 
 - [Xuewen Zhang](https://www.x-mol.com/groups/Shang_jingzhi/people/92015)
