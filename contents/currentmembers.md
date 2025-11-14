@@ -26,7 +26,7 @@
 
 <div class="member-card">
     <div class="member-image">
-        <img src="https://github.com/user-attachments/assets/67eb55ba-c7ce-4bba-96ab-6af2df0ff707" alt="Fulong Hu">
+        <img src="https://github.com/user-attachments/assets/620fdcf7-5af9-49d2-8bb7-0f74fd9967af" alt="Fulong Hu">
     </div>
     <div class="member-details">
         <h3>Fulong Hu</h3>
