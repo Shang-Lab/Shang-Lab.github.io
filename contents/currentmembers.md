@@ -20,6 +20,7 @@
         <p><strong>BS:</strong> Taiyuan University of Technology, China</p>
         <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
         <p><strong>PHD:</strong> Northwestern Polytechnical University, China</p>
+        <p>Xuewen Zhang is a Ph.D. candidate at Northwestern Polytechnical University, China, specializing in light-matter interactions in low-dimensional semiconductors and micro/nano photonic devices. His research focuses on manipulating exciton-photon coupling within two-dimensional semiconductor microcavities. He has made significant contributions to the design of novel microcavity architectures and the exploration of lateral confinement effects, with first-author publications in high-impact journals. His research excellence is further demonstrated by national awards in premier engineering competitions.<p>
     </div>
 </div>
 
@@ -35,7 +36,6 @@
     </div>
 </div>
 
-- [Fulong Hu](https://www.x-mol.com/groups/Shang_jingzhi/people/92016)
 
 - [Hanwei Hu](https://www.x-mol.com/groups/Shang_jingzhi/people/91969)
 
