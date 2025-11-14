@@ -4,7 +4,7 @@
 <strong>Xuewen Zhang</strong>\
 BS: Taiyuan University of Technology, China‌\
 MS：Northwestern Polytechnical University, China\
-PHD: Northwestern Polytechnical University, China\
+PHD: Northwestern Polytechnical University, China
 
 
 - [Xuewen Zhang](https://www.x-mol.com/groups/Shang_jingzhi/people/92015)
