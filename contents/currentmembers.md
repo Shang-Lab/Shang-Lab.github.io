@@ -42,7 +42,6 @@
 
 - [Guangchao Shi](https://www.x-mol.com/groups/Shang_jingzhi/people/92030)
 
-<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/1c4b1915-1ef4-42dd-ba51-c55010f7c2a0" />
 <div class="member-card">
     <div class="member-image">
         <img src="https://github.com/user-attachments/assets/1c4b1915-1ef4-42dd-ba51-c55010f7c2a0" alt="Jingyuan Qiao">
