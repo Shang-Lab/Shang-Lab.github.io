@@ -4,9 +4,9 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="Academic Webpage" />
+    <meta name="description" content="Academic Webpage - Guided Students" />
     <meta name="author" content="senli1073" />
-    <title id="title"></title>
+    <title id="title">Guided Students</title>
 
     <!-- Icon -->
     <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico" />
@@ -61,10 +61,7 @@
                 useLabelIds: true,         // use label name rather than tag for ids
                 maxMacros: 10000,          // maximum number of macro substitutions per expression
                 maxBuffer: 5 * 1024,       // maximum size for the internal TeX string (5K)
-                // baseURL:                   // URL for use with links to tags (when there is a <base> tag in effect)
-                // (document.getElementsByTagName('base').length === 0) ? '' : String(document.location).replace(/#.*$/, ''),
-                formatError:               // function called when TeX syntax errors occur
-                    (jax, err) => jax.formatError(err)
+                formatError: (jax, err) => jax.formatError(err)
             }
         };
     </script>
@@ -81,8 +78,7 @@
     <!-- Navigation-->
     <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
         <div class="container px-5">
-            <a id="page-top-title" class="navbar-brand fw-bold" href="#page-top"></a>
-            <!-- <a href="#page-top"><img src="static/assets/img/CUMT_LOGO.svg" style="width: 11rem;"></a> -->
+            <a id="page-top-title" class="navbar-brand fw-bold" href="index.html"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 MENU
@@ -97,12 +93,11 @@
                         <a class="nav-link me-lg-3" href="publications.html">PUBLICATIONS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="guidedstudents.html">GUIDED STUDENTS</a>
+                        <a class="nav-link me-lg-3 active" href="guidedstudents.html">GUIDED STUDENTS</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="links.html">LINKS</a>
                     </li>
-
                 </ul>
             </div>
         </div>
@@ -112,7 +107,7 @@
     <section class="top-section" style="background-image: url('static/assets/img/background.jpeg');">
         <div class="top-section-content">
             <div class="container px-5">
-                <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt"></h2>
+                <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt">Guided Students</h2>
             </div>
         </div>
     </section>
@@ -125,20 +120,17 @@
         </div>
     </div>
     <!-- Photo -->
-    
 
     <!-- Guided students -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="guidedstudents">
         <div class="container px-5">
             <header>
-                <h2 id="guidedstudents-subtitle">GUIDED STUDENTS </h2>
+                <h2 id="guidedstudents-subtitle">GUIDED STUDENTS</h2>
             </header>
             <div class="main-body" id="guidedstudents-md"></div>
-
         </div>
     </section>
     <!-- Guided students -->
-
 
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
