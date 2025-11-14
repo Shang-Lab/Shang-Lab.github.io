@@ -37,8 +37,19 @@
     </div>
 </div>
 
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/213998be-627e-4676-916b-fda2d72abe2d" alt="Hanwei Hu">
+    </div>
+    <div class="member-details">
+        <h3>Hanwei Hu</h3>
+        <p><strong>BS:</strong> Shaanxi University of Science ＆ Technology, China</p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
+        <p><strong>PHD:</strong> Northwestern Polytechnical University, China</p>
+        <p>Hanwei Hu is a Ph.D. </p>
+    </div>
+</div>
 
-- [Hanwei Hu](https://www.x-mol.com/groups/Shang_jingzhi/people/91969)
 
 - [Guangchao Shi](https://www.x-mol.com/groups/Shang_jingzhi/people/92030)
 
