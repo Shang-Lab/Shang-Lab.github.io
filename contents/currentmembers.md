@@ -1,6 +1,6 @@
 <div class="member-card">
     <div class="member-image">
-        <img src="https://github.com/user-attachments/assets/fbdf0a4a-619c-4a09-a30c-51d9d72cdb78" alt="Xinyu Zhang">
+        <img src="https://github.com/user-attachments/assets/1a854c57-3a15-42cc-b481-658815c8a207" alt="Xinyu Zhang">
     </div>
     <div class="member-details">
         <h3>Xinyu Zhang</h3>
