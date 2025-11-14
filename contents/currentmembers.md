@@ -21,6 +21,18 @@ PHD: Northwestern Polytechnical University, China
 
 - [Xuewen Zhang](https://www.x-mol.com/groups/Shang_jingzhi/people/92015)
 
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/0e00a957-87e2-427a-a368-dedd167e4b25" alt="Xuewen Zhang">
+    </div>
+    <div class="member-details">
+        <h3>Xuewen Zhang</h3>
+        <p><strong>BS:</strong> Taiyuan University of Technology, China</p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
+        <p><strong>PHD:</strong> Northwestern Polytechnical University, China</p>
+    </div>
+</div>
+
 - [Fulong Hu](https://www.x-mol.com/groups/Shang_jingzhi/people/92016)
 
 - [Hanwei Hu](https://www.x-mol.com/groups/Shang_jingzhi/people/91969)
