@@ -33,6 +33,7 @@
         <p><strong>BS:</strong> Shangrao Normal University, China</p>
         <p><strong>MS:</strong> Guizhou Normal University, China</p>
         <p><strong>PHD:</strong> Northwestern Polytechnical University, China</p>
+        <p>Fulong Hu is a Ph.D. candidate whose research focuses on the computational design of functional materials for energy and electronics. His primary work involves developing novel gel-state electrolytes for next-generation zinc-ion batteries and investigating the electronic properties of low-dimensional materials, such as van der Waals heterostructures and Janus crystals, using first-principles calculations.</p>
     </div>
 </div>
 
@@ -40,6 +41,19 @@
 - [Hanwei Hu](https://www.x-mol.com/groups/Shang_jingzhi/people/91969)
 
 - [Guangchao Shi](https://www.x-mol.com/groups/Shang_jingzhi/people/92030)
+
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/1c4b1915-1ef4-42dd-ba51-c55010f7c2a0" />
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/1c4b1915-1ef4-42dd-ba51-c55010f7c2a0" alt="Jingyuan Qiao">
+    </div>
+    <div class="member-details">
+        <h3>Jingyuan Qiao</h3>
+        <p><strong>BS:</strong> Taiyuan University of Technology, China</p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
+        <p><strong>PHD:</strong> Northwestern Polytechnical University, China</p>
+    </div>
+</div>
 
 - [Jingyuan Qiao](https://www.x-mol.com/groups/Shang_jingzhi/people/92032)
 
