@@ -3,7 +3,7 @@
         <img src="https://github.com/user-attachments/assets/fbdf0a4a-619c-4a09-a30c-51d9d72cdb78" alt="Xinyu Zhang">
     </div>
     <div class="member-details">
-        <h3>Xuewen Zhang</h3>
+        <h3>Xinyu Zhang</h3>
         <p><strong>BS:</strong> Shaanxi University of Science ＆ Technology, China</p>
         <p><strong>MS:</strong> Northeastern University‌ University, China</p>
         <p><strong>PHD:</strong> Northwestern Polytechnical University, China</p>
@@ -28,7 +28,7 @@
         <img src="https://github.com/user-attachments/assets/67eb55ba-c7ce-4bba-96ab-6af2df0ff707" alt="Fulong Hu">
     </div>
     <div class="member-details">
-        <h3>Xuewen Zhang</h3>
+        <h3>Fulong Hu</h3>
         <p><strong>BS:</strong> Shangrao Normal University, China</p>
         <p><strong>MS:</strong> Guizhou Normal University, China</p>
         <p><strong>PHD:</strong> Northwestern Polytechnical University, China</p>
