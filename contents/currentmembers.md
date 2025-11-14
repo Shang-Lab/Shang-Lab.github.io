@@ -65,9 +65,18 @@
     </div>
 </div>
 
-- [Jingyuan Qiao](https://www.x-mol.com/groups/Shang_jingzhi/people/92032)
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/9b8282da-8836-476d-9135-555f89d74560" alt="Wanjing Huang">
+    </div>
+    <div class="member-details">
+        <h3>Wanjing Huang</h3>
+        <p><strong>BS:</strong>  Shaanxi University of Science ＆ Technology, China</p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
+        <p>Huang Wanjing, master's degree holder, third year graduate student, mainly focuses on the optoelectronic performance control and device integration of two-dimensional materials (such as WS ₂). As the project leader, by optimizing the material processing technology, we achieved a 40 fold increase in the luminescence intensity of single-layer WS ₂ excitons and successfully constructed corresponding optoelectronic devices. Has interdisciplinary modeling and analysis skills, has won multiple national and provincial competition awards for related research, and applied for invention patents as the first inventor.</p>
+    </div>
+</div>
 
-- [Wanjing Huang](https://www.x-mol.com/groups/Shang_jingzhi/people/92017)
 
 - [Yingying Luo](https://www.x-mol.com/groups/Shang_jingzhi/people/92019)
 
