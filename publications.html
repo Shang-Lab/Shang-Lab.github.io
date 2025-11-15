@@ -69,6 +69,7 @@
         };
     </script>
     <script type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     
     <!-- Core JS-->
     <script type="text/javascript" src="static/js/scripts.js"></script>
@@ -91,19 +92,21 @@
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="index.html">HOME</a>
                     </li>
-                    <!-- 修复：只保留一个PUBLICATIONS下拉菜单 -->
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="publications.html">PUBLICATIONS</a>
+                    </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link me-lg-3 dropdown-toggle active" href="publications.html" id="publicationsDropdown" 
+                        <a class="nav-link me-lg-3 dropdown-toggle active" href="publications.html" id="studentsDropdown" 
                            role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             PUBLICATIONS
                         </a>
-                        <ul class="dropdown-menu" aria-labelledby="publicationsDropdown">
-                            <li><a class="dropdown-item" href="publications.html#current-members">Representative Publications</a></li>
-                            <li><a class="dropdown-item" href="publications.html#former-members">All Publications</a></li>
+                        <ul class="dropdown-menu" aria-labelledby="studentsDropdown">
+                            <li><a class="dropdown-item" href="publications.html#REPRESENTATIVE-PUBLICATIONS">Representative Publications</a></li>
+                            <li><a class="dropdown-item" href="publications.html#ALL-PUBLICATIONS">All Publications</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link me-lg-3 dropdown-toggle" href="guidedstudents.html" id="studentsDropdown" 
+                        <a class="nav-link me-lg-3 dropdown-toggle active" href="guidedstudents.html" id="studentsDropdown" 
                            role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             MEMBERS
                         </a>
@@ -140,45 +143,71 @@
     </section>
     <!-- Top Section -->
 
-    <!-- Publications Section with Tabs -->
+    <!-- Guided students -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="publications">
         <div class="container px-5">
             <header>
                 <h2 id="publications-subtitle">PUBLICATIONS</h2>
                 
                 <!-- 选项卡导航 -->
-                <ul class="nav nav-tabs mb-4" id="publicationsTab" role="tablist">
+                <ul class="nav nav-tabs mb-4" id="membersTab" role="tablist">
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="representative-tab" data-bs-toggle="tab" 
-                                data-bs-target="#representative-publications" type="button" role="tab" 
-                                aria-controls="representative-publications" aria-selected="true">
-                            Representative Publications
+                        <button class="nav-link active" id="current-tab" data-bs-toggle="tab" 
+                                data-bs-target="#REPRESENTATIVE-PUBLICATIONS" type="button" role="tab" 
+                                aria-controls="REPRESENTATIVE-PUBLICATIONS" aria-selected="true">
+                            REPRESENTATIVE PUBLICATIONS
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="all-tab" data-bs-toggle="tab" 
-                                data-bs-target="#all-publications" type="button" role="tab" 
-                                aria-controls="all-publications" aria-selected="false">
-                            All Publications
+                        <button class="nav-link" id="former-tab" data-bs-toggle="tab" 
+                                data-bs-target="#ALL-PUBLICATIONS" type="button" role="tab" 
+                                aria-controls="ALL-PUBLICATIONS" aria-selected="false">
+                            ALL PUBLICATIONS
                         </button>
                     </li>
                 </ul>
             </header>
 
             <!-- 选项卡内容 -->
-            <div class="tab-content" id="publicationsTabContent">
-                <div class="tab-pane fade show active" id="representative-publications" role="tabpanel" 
-                     aria-labelledby="representative-tab">
+            <div class="tab-content" id="membersTabContent">
+                <div class="tab-pane fade show active" id="REpublications" role="tabpanel" 
+                     aria-labelledby="current-tab">
                     <div class="main-body" id="REpublications-md"></div>                    
                 </div>
-                <div class="tab-pane fade" id="all-publications" role="tabpanel" 
-                     aria-labelledby="all-tab">
+                <div class="tab-pane fade" id="publications" role="tabpanel" 
+                     aria-labelledby="former-tab">
                     <div class="main-body" id="publications-md"></div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- Publications Section -->
+    <!-- Guided students -->
+
+    <!-- REPublications -->
+    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="REpublications">
+        <div class="container px-5">
+            <header>
+                <h2 id="REpublications-subtitle">REPRESENTATIVE PUBLICATIONS</h2>
+            </header>
+            <div class="main-body" id="REpublications-md"></div>
+
+        </div>
+    </section>
+    <!-- REPublications  -->
+    
+    <!-- Publications -->
+    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
+        <div class="container px-5">
+            <header>
+                <h2 id="publications-subtitle">ALL PUBLICATIONS</h2>
+            </header>
+            <div class="main-body" id="publications-md"></div>
+
+        </div>
+    </section>
+    <!-- Publications  -->
+
+
 
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
