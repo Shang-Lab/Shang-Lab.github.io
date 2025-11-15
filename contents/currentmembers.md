@@ -52,13 +52,14 @@
 
 <div class="member-card">
     <div class="member-image">
-        <img src="https://github.com/user-attachments/assets/8d92cc50-6671-4502-aa7d-8d4ca6015cb1" alt="Guangchao Shi">
+        <img src="https://github.com/user-attachments/assets/4a6d459b-56dd-47f8-a215-bf014dd3defe" alt="Guangchao Shi">
     </div>
     <div class="member-details">
         <h3>Guangchao Shi</h3>
-        <p><strong>BS:</strong> , China</p>
+        <p><strong>BS:</strong> Changchun University of Science and Technology, China</p>
         <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
         <p><strong>PHD:</strong> Northwestern Polytechnical University, China</p>
+        <p>Shi Guangchao is a  Ph.D. candidate specializing in condensed matter physics and advanced materials science, with a research portfolio directly supporting breakthroughs in New Generation Electronic Information Technology .His core investigation lies in the fundamental excitonic properties of Ga2SeTe semiconductors. By mastering the intricate light-matter interactions in this low-dimensional material, his work establishes the critical physical principles necessary for realizing next-generation, high-performance, and energy-efficient EIT devices.<p>
     </div>
 </div>
 
