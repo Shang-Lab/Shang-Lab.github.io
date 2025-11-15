@@ -86,8 +86,19 @@
     </div>
 </div>
 
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/457f4938-7b11-4679-aa6a-aa9b36540915" />
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/deba27a8-ed86-4582-a259-3755591841ec" alt="Yingying Luo">
+    </div>
+    <div class="member-details">
+        <h3>Yingying Luo</h3>
+        <p><strong>BS:</strong> </p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
+        <p></p>
+    </div>
+</div>
 
-- [Yingying Luo](https://www.x-mol.com/groups/Shang_jingzhi/people/92019)
 
 
 <div class="member-card">
