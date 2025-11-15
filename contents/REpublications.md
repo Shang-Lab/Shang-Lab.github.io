@@ -1,8 +1,16 @@
-<img width="798" height="866" alt="1" src="https://github.com/user-attachments/assets/6af2d8f0-b2be-4876-ab02-20b8c51d0df8" />
-Shang, J., Cong, C., Wang, Z. et al. Room-temperature 2D semiconductor activated vertical-cavity surface-emitting lasers. Nat Commun 8, 543 (2017). https://doi.org/10.1038/s41467-017-00743-w
+1. Room-temperature 2D Semiconductor Activated Vertical-Cavity Surface-Emitting Lasers
+<div align="center"> <img width="600" alt="Room-temperature 2D semiconductor activated vertical-cavity surface-emitting lasers" src="https://github.com/user-attachments/assets/6af2d8f0-b2be-4876-ab02-20b8c51d0df8" /> </div>
+Authors: Shang, J., Cong, C., Wang, Z. et al.
+Journal: Nature Communications 8, 543 (2017)
+DOI: https://doi.org/10.1038/s41467-017-00743-w
 
-<img width="856" height="395" alt="image" src="https://github.com/user-attachments/assets/2d26e8c8-960b-45e1-b4ce-a4488ba9fd20" />
-Shang, J.; Shen, X.; Cong, C.; Peimyoo, N.; Cao, B.; Eginligil, M.; Yu, T. Observation of excitonic fine structure in a 2D transition-metal dichalcogenide semiconductor. ACS Nano 2015, 9, 647-655. https://doi.org/10.1021/nn5059908
+2. Observation of Excitonic Fine Structure in a 2D Transition-Metal Dichalcogenide Semiconductor
+<div align="center"> <img width="700" alt="Observation of excitonic fine structure in a 2D transition-metal dichalcogenide semiconductor" src="https://github.com/user-attachments/assets/2d26e8c8-960b-45e1-b4ce-a4488ba9fd20" /> </div>
+Authors: Shang, J.; Shen, X.; Cong, C.; Peimyoo, N.; Cao, B.; Eginligil, M.; Yu, T.
+Journal: ACS Nano 2015, 9, 647-655
+DOI: https://doi.org/10.1021/nn5059908
+
+
 
 <img width="814" height="472" alt="image" src="https://github.com/user-attachments/assets/4d6b65a3-43d3-4fcc-999a-25cb74c4e9b8" />
 Lishu Wu, Chunxiao Cong, Weihuang Yang, Yu Chen, Yan Shao, T. Thu Ha Do, Wen Wen, Shun Feng, Chenji Zou, Hongbo Zhang, Bowen Du, Bingchen Cao, Jingzhi Shang, Qihua Xiong, Kian Ping Loh, Ting Yu. Observation of Strong Valley Magnetic Response in Monolayer Transition Metal Dichalcogenide Alloys of Mo0.5W0.5Se2 and Mo0.5W0.5Se2/WS2 Heterostructures. ACS Nano 2021, 15, 8397−8406. https://doi.org/10.1021/acsnano.0c10478
