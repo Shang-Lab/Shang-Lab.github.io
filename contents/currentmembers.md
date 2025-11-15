@@ -5,7 +5,7 @@
     <div class="member-details">
         <h3>Xinyu Zhang</h3>
         <p><strong>BS:</strong> Shaanxi University of Science ＆ Technology, China</p>
-        <p><strong>MS:</strong> Northeastern University‌ University, China</p>
+        <p><strong>MS:</strong> Northeastern University‌, China</p>
         <p><strong>PHD:</strong> Northwestern Polytechnical University, China</p>
         <p>Xinyu Zhang is a Ph.D. candidate at Northwestern Polytechnical University, China, and a joint Ph.D. student at A*STAR, Singapore. Her research focuses on exciton-polaritons in two-dimensional (2D) semiconductors, with an emphasis on polarization-resolved strong coupling and thermal modulation in monolayer MoS2. She has extensive experience in the design of photonic structures, angle-resolved optical spectroscopy, and the analysis of hybrid light–matter interactions. Her work includes investigating Rabi splitting, TE/TM detuning, and Hopfield coefficient evolution in polarization-resolved exciton-polariton systems integrated with tunable photonic structures.<p>
     </div>
