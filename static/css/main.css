@@ -183,10 +183,11 @@ section .main-body{
     padding: 8px 15px;
     font-size: 0.9rem;
     transition: all 0.3s ease;
+    min-width: 200px;
 }
 
 .search-input:focus {
-    box-shadow: none;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
     border-color: #6c757d;
 }
 
@@ -205,22 +206,41 @@ section .main-body{
     color: #495057;
 }
 
+/* 搜索高亮样式 */
+.search-highlight {
+    background-color: #ffeb3b !important;
+    padding: 2px 0;
+    border-radius: 2px;
+    box-shadow: 0 0 2px rgba(0,0,0,0.2);
+}
+
 /* 移动设备上的搜索表单样式 */
 @media (max-width: 991.98px) {
     .search-item {
         margin-top: 10px;
         padding: 0 15px;
+        width: 100%;
     }
     
     .search-form {
         margin-left: 0;
+        width: 100%;
     }
     
     .search-input {
         border-radius: 20px 0 0 20px !important;
+        min-width: auto;
+        flex: 1;
     }
     
     .search-btn {
         border-radius: 0 20px 20px 0 !important;
+    }
+}
+
+/* 小屏幕设备 */
+@media (max-width: 576px) {
+    .search-input {
+        min-width: 150px;
     }
 }
