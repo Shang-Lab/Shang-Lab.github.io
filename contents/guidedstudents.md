@@ -10,7 +10,17 @@
     </div>
 </div>
 
-- [Chen Zhang](https://www.x-mol.com/groups/Shang_jingzhi/people/92011)
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/0f0a3595-766a-451f-8dc1-f96effdb0a29" alt="Chen Zhang">
+    </div>
+    <div class="member-details">
+        <h3>Chen Zhang</h3>
+        <p><strong>BS:</strong> Hefei University of Technology,China (2016-2020)</p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China (2022-2025)</p>
+        <p>Chen Zhang's research primarily focuses on the optical simulation of low-dimensional inorganic perovskites.During his undergraduate and master's studies, Chen Zhang received multiple awards at the provincial and university levels, among others. After graduation, he worked in Tianjin.<p>
+    </div>
+</div>
 
 
 <div class="member-card">
