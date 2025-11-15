@@ -1,4 +1,3 @@
-<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/b7a0168f-9a1f-46fc-812d-9385709e56cb" />
 <div class="member-card">
     <div class="member-image">
         <img src="https://github.com/user-attachments/assets/b7a0168f-9a1f-46fc-812d-9385709e56cb" alt="Xu Wang">
