@@ -46,7 +46,7 @@
         <p><strong>BS:</strong> Shaanxi University of Science ＆ Technology, China</p>
         <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
         <p><strong>PHD:</strong> Northwestern Polytechnical University, China</p>
-        <p>Hanwei Hu is a Ph.D. </p>
+        <p>Hanwei Hu is a Ph.D at Northwestern Polytechnical University (NPU) in China, primarily researches light-matter coupling of low-dimensional semiconductors in various microcavities. He has extensive experience in simulation and experimentation regarding the design and fabrication of different microcavity structures, making positive contributions to optimizing microcavity structures and realizing high-performance microcavity optical devices. His relevant research findings have been published in international authoritative journals such as Nano Research.</p>
     </div>
 </div>
 
