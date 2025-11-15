@@ -120,7 +120,6 @@
         <h3>Mingxuan Liu</h3>
         <p><strong>BS:</strong> Zhengzhou University, China</p>
         <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
-        <p></p>
+        <p>Mingxuan Liu is a 2024-intake graduate student whose research focuses on laser devices integrated with perovskite and photonic crystals, as well as light-matter interaction.</p>
     </div>
 </div>
-- [Mingxuan Liu](https://www.x-mol.com/groups/Shang_jingzhi/people/92013)
