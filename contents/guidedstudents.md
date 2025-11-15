@@ -1,3 +1,15 @@
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/802e78b6-9088-4de8-9427-69b10a0386e6" alt="Silin He">
+    </div>
+    <div class="member-details">
+        <h3>Siyu Li</h3>
+        <p><strong>BS:</strong> Hunan University of Science and Technology, China（2014-2018）</p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China (2020-2023)</p>
+        <p>Silin He's research focuses on the growth and optical properties of tungsten disulfide. After graduation, He joined ZTE Microelectronics and worked in the semiconductor industry<p>
+    </div>
+</div>
+
 - [Chen Zhang](https://www.x-mol.com/groups/Shang_jingzhi/people/92011)
 
 
