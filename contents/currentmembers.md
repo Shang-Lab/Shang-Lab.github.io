@@ -100,7 +100,7 @@
     </div>
     <div class="member-details">
         <h3>Tao Chen</h3>
-        <p><strong>BS:</strong> </p>
+        <p><strong>BS:</strong>Nanchang Hangkong University，China</p>
         <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
         <p></p>
     </div>
