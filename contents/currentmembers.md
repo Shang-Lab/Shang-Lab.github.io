@@ -92,9 +92,9 @@
     </div>
     <div class="member-details">
         <h3>Yingying Luo</h3>
-        <p><strong>BS:</strong> </p>
+        <p><strong>BS: Shandong University of Science and Technology,China</p>
         <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
-        <p></p>
+        <p>Yingying Luo holds a Master's degree and primarily focuses on research related to light-emitting devices based on two-dimensional transition metal dichalcogenides coupled with microcavities.</p>
     </div>
 </div>
 
