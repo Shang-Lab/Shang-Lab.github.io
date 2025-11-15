@@ -50,9 +50,6 @@
     </div>
 </div>
 
-<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/adcc87c5-952c-4357-bed7-3dfcb4abae94" />
-
-- [Guangchao Shi](https://www.x-mol.com/groups/Shang_jingzhi/people/92030)
 <div class="member-card">
     <div class="member-image">
         <img src="https://www.x-mol.com/groups/Shang_jingzhi/people/92030" alt="Guangchao Shi">
