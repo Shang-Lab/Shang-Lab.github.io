@@ -1,6 +1,18 @@
 - [Chen Zhang](https://www.x-mol.com/groups/Shang_jingzhi/people/92011)
 
-- [Siyu Li](https://www.x-mol.com/groups/Shang_jingzhi/people/92012)
+
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/4f3d9ac9-7b92-45d2-8183-56713dc36284" alt="Siyu Li">
+    </div>
+    <div class="member-details">
+        <h3>Siyu Li</h3>
+        <p><strong>BS:</strong> Fujian Normal University，China（2018-2022）</p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China (2022-2025)</p>
+        <p>Siyu Li's research focuses on the growth and optical properties of all-inorganic perovskites. She has applied for one invention patent during her Master's studies and has achieved notable success in academic competitions, including a first-place award in the "Sanhang Cup" competition.<p>
+    </div>
+</div>
+
 
 
 <div class="member-card">
