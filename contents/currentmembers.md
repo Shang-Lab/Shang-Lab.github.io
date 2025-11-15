@@ -80,6 +80,17 @@
 
 - [Yingying Luo](https://www.x-mol.com/groups/Shang_jingzhi/people/92019)
 
-- [Tao Chen](https://www.x-mol.com/groups/Shang_jingzhi/people/92031)
+
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/deba27a8-ed86-4582-a259-3755591841ec" alt="Tao Chen">
+    </div>
+    <div class="member-details">
+        <h3>Tao Chen</h3>
+        <p><strong>BS:</strong> </p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
+        <p></p>
+    </div>
+</div>
 
 - [Mingxuan Liu](https://www.x-mol.com/groups/Shang_jingzhi/people/92013)
