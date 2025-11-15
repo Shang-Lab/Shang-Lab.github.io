@@ -50,8 +50,20 @@
     </div>
 </div>
 
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/adcc87c5-952c-4357-bed7-3dfcb4abae94" />
 
 - [Guangchao Shi](https://www.x-mol.com/groups/Shang_jingzhi/people/92030)
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://www.x-mol.com/groups/Shang_jingzhi/people/92030" alt="Guangchao Shi">
+    </div>
+    <div class="member-details">
+        <h3>Guangchao Shi</h3>
+        <p><strong>BS:</strong> , China</p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
+        <p><strong>PHD:</strong> Northwestern Polytechnical University, China</p>
+    </div>
+</div>
 
 <div class="member-card">
     <div class="member-image">
@@ -93,4 +105,15 @@
     </div>
 </div>
 
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/0f42fff1-cad3-42cc-919d-6b947ec8f5fc" alt="Mingxuan Liu">
+    </div>
+    <div class="member-details">
+        <h3>Mingxuan Liu</h3>
+        <p><strong>BS:</strong> Zhengzhou University, China</p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
+        <p></p>
+    </div>
+</div>
 - [Mingxuan Liu](https://www.x-mol.com/groups/Shang_jingzhi/people/92013)
