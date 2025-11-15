@@ -52,7 +52,7 @@
 
 <div class="member-card">
     <div class="member-image">
-        <img src="https://www.x-mol.com/groups/Shang_jingzhi/people/92030" alt="Guangchao Shi">
+        <img src="https://github.com/user-attachments/assets/8d92cc50-6671-4502-aa7d-8d4ca6015cb1" alt="Guangchao Shi">
     </div>
     <div class="member-details">
         <h3>Guangchao Shi</h3>
