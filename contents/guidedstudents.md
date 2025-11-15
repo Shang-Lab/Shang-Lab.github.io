@@ -22,6 +22,17 @@
 
 <div class="member-card">
     <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/b1c8cb97-fd3a-4659-8636-e3381c42ada1" alt="Nan Huang">
+    </div>
+    <div class="member-details">
+        <h3>Nan Huang</h3>
+        <p><strong>BS:</strong> Nanjing University of Aeronautics and Astronautics, China (2017-2021)</p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China (2021-2024)</p>
+    </div>
+</div>
+
+<div class="member-card">
+    <div class="member-image">
         <img src="https://github.com/user-attachments/assets/13623927-8536-4827-83b7-3e4e65b93cba" alt="Weidong Xiao">
     </div>
     <div class="member-details">
