@@ -1,3 +1,5 @@
+- Luo, Y.; Zhang, X.; Zhang, X.; Hu, H.; Chen, T.; Huang, W.; Qiao, J.; Hu, F.; <strong>Shang, J.</strong> Towards near-infrared polaritonics by a molybdenum diselenide microcavity: converting excitons into polaritons with near-unity photonic fractions. Optics Express 2026, 34 (1), 193–202, [[Paper-78]]（https://doi.org/10.1364/OE.579846）
+
 - Zhang, X.; Zhang, X.;  Hu, H.; Hu, F.;  Qiao, J.; Shi, G.; Zhang, G.;Sreekanth K.; Teng J.; <strong>Shang, J.</strong> Achieving zero-detuned and polarized bragg polaritons in monolayer MoS2 above room temperature. <strong>ACS Photonics</strong> 2025, 12, 5750-5758,  [[Paper-77]](https://doi.org/10.1002/acsphotonics.5c01609)
 
 - Shi, G.;  Hu, F.;  Qiao, J.;  Hu, H.; Zhang, X.; Zhang, X.; <strong>Shang, J.</strong> Photoluminescence differentiation of zigzag and armchair edges of a layered GaSe0.5Te0.5 alloy crystal. <strong>Advanced Optical Materials</strong> 2025, e02032, [[Paper-76]](https://doi.org/10.1002/adom.202502032)
