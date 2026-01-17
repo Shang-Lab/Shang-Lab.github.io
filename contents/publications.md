@@ -1,4 +1,6 @@
-- Luo, Y.; Zhang, X.; Zhang, X.; Hu, H.; Chen, T.; Huang, W.; Qiao, J.; Hu, F.; <strong>Shang, J.</strong> Towards near-infrared polaritonics by a molybdenum diselenide microcavity: converting excitons into polaritons with near-unity photonic fractions. Optics Express 2026, 34 (1), 193–202, [[Paper-78]](https://doi.org/10.1364/OE.579846)
+- Zhang, X.; Zhang, X.;  Hu, H.; Hu, F.;  Qiao, J.; Shi, G.; Zhang, G.;Sreekanth K.; Teng J.; <strong>Shang, J.</strong> Switching from moderately to strongly coupled Bragg polaritons in monolayer MoS2 via superacid treatment. <strong>Optics & Laser Technology</strong> 2026, 195, 114622, [[Paper-79]](https://doi.org/10.1016/j.optlastec.2025.114622)
+
+- Luo, Y.; Zhang, X.; Zhang, X.; Hu, H.; Chen, T.; Huang, W.; Qiao, J.; Hu, F.; <strong>Shang, J.</strong> Towards near-infrared polaritonics by a molybdenum diselenide microcavity: converting excitons into polaritons with near-unity photonic fractions. <strong>Optics Express</strong> 2026, 34 (1), 193–202, [[Paper-78]](https://doi.org/10.1364/OE.579846)
 
 - Zhang, X.; Zhang, X.;  Hu, H.; Hu, F.;  Qiao, J.; Shi, G.; Zhang, G.;Sreekanth K.; Teng J.; <strong>Shang, J.</strong> Achieving zero-detuned and polarized bragg polaritons in monolayer MoS2 above room temperature. <strong>ACS Photonics</strong> 2025, 12, 5750-5758,  [[Paper-77]](https://doi.org/10.1002/acsphotonics.5c01609)
 
