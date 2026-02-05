@@ -1,3 +1,5 @@
+- Hu, F.;  Zhang, X.; Shi, G.; Zhang, X.;  Hu, H.; Qiao, J.; Zhang, G.; Li L.; <strong>Shang, J.</strong> Band-edge spin splitting and texture of Janus-Ga2SeTe monolayer. <strong>Chinese Journal of Physics</strong> 2026, 100, 347-358, [[Paper-80]](https://doi.org/10.1016/j.cjph.2026.01.015)
+
 - Zhang, X.; Zhang, X.;  Hu, H.; Hu, F.;  Qiao, J.; Shi, G.; Zhang, G.;Sreekanth K.; Teng J.; <strong>Shang, J.</strong> Switching from moderately to strongly coupled Bragg polaritons in monolayer MoS2 via superacid treatment. <strong>Optics & Laser Technology</strong> 2026, 195, 114622, [[Paper-79]](https://doi.org/10.1016/j.optlastec.2025.114622)
 
 - Luo, Y.; Zhang, X.; Zhang, X.; Hu, H.; Chen, T.; Huang, W.; Qiao, J.; Hu, F.; <strong>Shang, J.</strong> Towards near-infrared polaritonics by a molybdenum diselenide microcavity: converting excitons into polaritons with near-unity photonic fractions. <strong>Optics Express</strong> 2026, 34 (1), 193–202, [[Paper-78]](https://doi.org/10.1364/OE.579846)
