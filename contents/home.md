@@ -3,7 +3,7 @@
 [[Shang-Lab]](https://github.com/Shang-Lab)
 
 Professor\
-School of Microelectronics and Control Engineering\
+Wang Zheng Microelectronics and The Materials and Electronics Research Center\
 Changzhou University\
 2468 Yanzheng West Avenue, Wujin District, Changzhou Jiangshu, 213164, China.
 
@@ -16,7 +16,7 @@ M.S., Condensed Matter Physics, Xiamen University, China, 2009\
 B.S., Physics, Xiamen University, China, 2006
 
 #### Professional Experience
-Professor, School of Microelectronics and Control Engineering, Changzhou University, China, 2025-Present\
+Professor, Wang Zheng Microelectronics and The Materials and Electronics Research Center, Changzhou University, China, 2025-Present\
 Professor, Institute of Flexible Electronics, Northwestern Polytechnical University, China, 2018-2025\
 Research Fellow, Division of Physics and Applied Physics, Nanyang Technological University, Singapore, 2014-2018\
 Research Associate, Division of Physics and Applied Physics, Nanyang Technological University, Singapore, 2013-2014
