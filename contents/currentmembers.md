@@ -1,17 +1,5 @@
 <div class="member-card">
     <div class="member-image">
-        <img src="https://github.com/user-attachments/assets/1a854c57-3a15-42cc-b481-658815c8a207" alt="Xinyu Zhang">
-    </div>
-    <div class="member-details">
-        <h3>Xinyu Zhang</h3>
-        <p><strong>BS:</strong> Shaanxi University of Science ＆ Technology, China</p>
-        <p><strong>MS:</strong> Northeastern University‌, China</p>
-        <p><strong>PHD:</strong> Northwestern Polytechnical University, China</p>
-    </div>
-</div>
-
-<div class="member-card">
-    <div class="member-image">
         <img src="https://github.com/user-attachments/assets/0e00a957-87e2-427a-a368-dedd167e4b25" alt="Xuewen Zhang">
     </div>
     <div class="member-details">
