@@ -1,3 +1,5 @@
+- Hu, F.; Shi, G.;  Zhang, X.; Zhong, Q.; Li L.; <strong>Shang, J.</strong> Electronic and optical properties in bilayers of Janus-Ga2SeTe. <strong>Physica E</strong> 2026, 179, 116489, [[Paper-81]](https://doi.org/10.1016/j.physe.2026.116489)
+
 - Hu, F.;  Zhang, X.; Shi, G.; Zhang, X.;  Hu, H.; Qiao, J.; Zhang, G.; Li L.; <strong>Shang, J.</strong> Band-edge spin splitting and texture of Janus-Ga2SeTe monolayer. <strong>Chinese Journal of Physics</strong> 2026, 100, 347-358, [[Paper-80]](https://doi.org/10.1016/j.cjph.2026.01.015)
 
 - Zhang, X.; Zhang, X.;  Hu, H.; Hu, F.;  Qiao, J.; Shi, G.; Zhang, G.;Sreekanth K.; Teng J.; <strong>Shang, J.</strong> Switching from moderately to strongly coupled Bragg polaritons in monolayer MoS2 via superacid treatment. <strong>Optics & Laser Technology</strong> 2026, 195, 114622, [[Paper-79]](https://doi.org/10.1016/j.optlastec.2025.114622)
