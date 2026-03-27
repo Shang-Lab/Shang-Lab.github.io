@@ -5,7 +5,7 @@
 Professor\
 Wang Zheng Microelectronics and The Materials and Electronics Research Center\
 Changzhou University\
-2468 Yanzheng West Avenue, Wujin District, Changzhou Jiangshu, 213164, China.
+2468 Yanzheng West Avenue, Wujin District, Changzhou Jiangsu, 213164, China.
 
 #### Email
 jzshang@cczu.edu.cn
