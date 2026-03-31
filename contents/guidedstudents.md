@@ -88,3 +88,39 @@
         <p><strong>MS:</strong> Northwestern Polytechnical University, China (2022-2025)</p>
     </div>
 </div>
+
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/9b8282da-8836-476d-9135-555f89d74560" alt="Wanjing Huang">
+    </div>
+    <div class="member-details">
+        <h3>Wanjing Huang</h3>
+        <p><strong>BS:</strong>  Shaanxi University of Science ＆ Technology, China</p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
+    </div>
+</div>
+
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/457f4938-7b11-4679-aa6a-aa9b36540915" alt="Yingying Luo">
+    </div>
+    <div class="member-details">
+        <h3>Yingying Luo</h3>
+        <p><strong>BS: Shandong University of Science and Technology,China</p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
+    </div>
+</div>
+
+
+
+<div class="member-card">
+    <div class="member-image">
+        <img src="https://github.com/user-attachments/assets/deba27a8-ed86-4582-a259-3755591841ec" alt="Tao Chen">
+    </div>
+    <div class="member-details">
+        <h3>Tao Chen</h3>
+        <p><strong>BS:</strong>Nanchang Hangkong University，China</p>
+        <p><strong>MS:</strong> Northwestern Polytechnical University, China</p>
+        <p></p>
+    </div>
+</div>
